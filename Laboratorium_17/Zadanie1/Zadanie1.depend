@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685020747 source:c:\users\asus\desktop\programowanie obiektowe i in¿ynieria oprogramowania\laboratorium_17\zadanie1\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
